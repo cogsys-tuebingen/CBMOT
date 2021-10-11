@@ -1,6 +1,6 @@
 # Score refinement for confidence-based 3D multi-object tracking
 
-Our [VIDEO](https://youtu.be/0GL_lsUvPdo) gives a brief explanation of our Method.
+Our [video](https://youtu.be/0GL_lsUvPdo) gives a brief explanation of our Method.
 
 This is the official code for the paper:
 > [**Score refinement for confidence-based 3D multi-object tracking**](https://arxiv.org/abs/2107.04327),            
